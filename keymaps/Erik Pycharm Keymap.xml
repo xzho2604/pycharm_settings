@@ -1,0 +1,6 @@
+<keymap version="1" name="Erik Pycharm Keymap" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+  </action>
+  <action id="SurroundWith" />
+</keymap>
